@@ -17,7 +17,7 @@ class Database:
             caption=None,
             thumbnail=None,
             ffmpegcode=None,
-            metadata=""" -map 0 -c:s copy -c:a copy -c:v copy -metadata title="Powered By:- @Kdramaland" -metadata author="@Snowball_Official" -metadata:s:s title="Subtitled By :- @Kdramaland" -metadata:s:a title="By :- @Kdramaland" -metadata:s:v title="By:- @Snowball_Official" """,
+            metadata=""" -map 0 -c:s copy -c:a copy -c:v copy -metadata title="Powered By:- @Mahsoommjm" -metadata author="@Call_me_futurepilot" -metadata:s:s title="Subtitled By :- @Mahsoommjm" -metadata:s:a title="By :- @Mahsoommjm" -metadata:s:v title="By:- @Call_me_futurepilot" """,
             ban_status=dict(
                 is_banned=False,
                 ban_duration=0,
